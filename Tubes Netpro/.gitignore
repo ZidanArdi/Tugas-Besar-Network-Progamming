@@ -1,0 +1,39 @@
+# WiFi Scanner - Ignore File
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Build folders
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PyInstaller
+*.spec
+
+# Logs
+*.log
+
+# Test files
+test_*.py
+*_test.py

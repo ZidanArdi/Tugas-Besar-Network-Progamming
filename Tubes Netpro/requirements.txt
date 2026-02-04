@@ -1,0 +1,11 @@
+# requirements.txt
+# Aplikasi WiFi Scanner Python
+# Dibutuhkan untuk GUI version
+
+# Jika menggunakan Python 3, tkinter sudah termasuk standar
+# Tidak perlu library tambahan untuk versi dasar
+
+# Untuk pengembangan lebih lanjut (opsional)
+# numpy==1.24.3
+# matplotlib==3.7.1
+# pandas==2.0.1
